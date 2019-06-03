@@ -1,4 +1,4 @@
-# MESH-Starter-Theme
+# Made By MESH - Level 2 Theme (Startup)
 
 This theme is the starting point for new MESH Wordpress projects.
 
@@ -44,5 +44,4 @@ We use containers, which hold rows, which have columns.
     </div>
 
 Most sites are built on a twelve column grid, but you can choose a different number of columns in the grid config file.
-# hillombo
 # MBM-Startup-Lvl-2
